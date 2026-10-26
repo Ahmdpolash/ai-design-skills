@@ -74,6 +74,8 @@ Every skill's design values (fonts, colors, spacing, motion) live in one section
 
 ## Credits
 
+`landing-page-design` adapts content realism and motion ideas from [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) by Leon Lin, MIT licensed. Details are at the end of [its SKILL.md](./skills/landing-page-design/SKILL.md#credits).
+
 `design-to-motion` adapts a few general motion rules from [emilkowalski/skills](https://github.com/emilkowalski/skills), [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills), and [dylantarre/animation-principles](https://github.com/dylantarre/animation-principles), all MIT licensed. Details are at the end of [its SKILL.md](./skills/design-to-motion/SKILL.md#credits).
 
 ---
